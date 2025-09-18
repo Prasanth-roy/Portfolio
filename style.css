@@ -150,13 +150,14 @@ span {
 
 .home-img {
     border-radius: 50%;
-    height:150px;
-    width:150px;
+/*     height:150px;
+    width:150px; */
 }
 
 .home-img img {
     position: relative;
     width: 32vw;
+    height:50%;
     border-radius: 50%;
     box-shadow: 0 0 25px #f6332a;
     cursor: pointer;
