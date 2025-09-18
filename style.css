@@ -150,6 +150,8 @@ span {
 
 .home-img {
     border-radius: 50%;
+    height:150px;
+    width:150px;
 }
 
 .home-img img {
